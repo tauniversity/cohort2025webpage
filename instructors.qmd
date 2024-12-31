@@ -3,7 +3,7 @@
 <!-- Instructor 1 -->
 
 ::: {style="margin-bottom:2rem;"}
-<img src="images/ezekiel.png" alt="Ezekiel Ogundepo" style="
+<img src="images/ezekiel1.png" alt="Ezekiel Ogundepo" style="
          width: 180px;
          aspect-ratio: 1 / 1;
          border-radius: 50%;
