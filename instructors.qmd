@@ -3,7 +3,7 @@
 <!-- Instructor 1 -->
 
 ::: {style="margin-bottom:2rem;"}
-<img src="images/ezekiel1.png" alt="Ezekiel Ogundepo" style="
+<img src="images/ezekiel.png" alt="Ezekiel Ogundepo" style="
          width: 180px;
          aspect-ratio: 1 / 1;
          border-radius: 50%;
@@ -19,7 +19,7 @@ Ezekiel Ogundepo <a href="https://www.linkedin.com/in/gbganalyst"
 
 </h3>
 
-<em style="color: #777;">Data Science</em>
+<em style="color: #777;">Data Analytics Manager</em>
 
 <p style="margin-top:0.5rem;">
 
@@ -47,7 +47,7 @@ Ayodele Awokoya <a href="https://www.linkedin.com/in/ayodeleawokoya/"
 
 </h3>
 
-<em style="color: #777;">Machine Learning</em>
+<em style="color: #777;">Machine Learning Expert</em>
 
 <p style="margin-top:0.5rem;">
 
@@ -131,7 +131,7 @@ Olusola Ogundepo <a href="https://www.linkedin.com/in/comsavvy"
 
 </h3>
 
-<em style="color: #777;">Data Science</em>
+<em style="color: #777;">Data Scientist</em>
 
 <p style="margin-top:0.5rem;">
 
@@ -159,7 +159,7 @@ Roseline Ogundokun <a href="https://www.linkedin.com/in/roseline-ogundokun-ph-d-
 
 </h3>
 
-<em style="color: #777;">Data Science</em>
+<em style="color: #777;">Lecturer and Researcher</em>
 
 <p style="margin-top:0.5rem;">
 
