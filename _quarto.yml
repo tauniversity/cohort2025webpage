@@ -14,6 +14,8 @@ website:
         text: Software Installation
       - href: instructors.qmd
         text: Instructors
+      - href: News.qmd
+        text: News
   page-footer: 
     left: "Copyright 2024, GBG Analytics Limited" 
     right: 
@@ -40,7 +42,8 @@ website:
   announcement:
     icon: megaphone
     dismissable: true
-    content: "The registration process is now open. You can apply for the modules that best suit your career or interests [here](https://forms.gle/MtTXSeEYojmNCYnP8)."
+    content: "The registration process is now closed!" 
+# You can apply for the modules that best suit your career or interests [here](https://forms.gle/MtTXSeEYojmNCYnP8)."
     type: info
     position: above-navbar
 
@@ -51,4 +54,3 @@ format:
     toc: true
 
 editor: visual
-
